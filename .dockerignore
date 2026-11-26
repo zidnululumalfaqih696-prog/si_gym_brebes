@@ -1,0 +1,17 @@
+.git
+.env*
+.claude
+.vscode
+node_modules
+vendor
+public/build
+public/hot
+public/fonts-manifest.dev.json
+database/database.sqlite
+si_gym_infinityfree.sql
+storage/app/public/*
+storage/framework/cache/data/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/logs/*
+tests
